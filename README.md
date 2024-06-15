@@ -1,2 +1,14 @@
 # DashDive
-A project to master dashboard creation with Streamlit and/or Shiny in 100 days
+
+Deep dive into dashboard creation including all the data analysis required in the background.
+
+Using Introduction to Statistical Learning with Python as a jumpoff point for these projects. 
+
+## progress
+
+
+Side by side comparison of tuition components from various colleges. 
+
+![yt video demoing double dash](https://youtu.be/rcpzsv3Ogzc)
+
+
